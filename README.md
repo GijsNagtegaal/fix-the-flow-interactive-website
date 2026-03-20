@@ -40,15 +40,15 @@ Met javascript wordt er voor gezorgd dat de knoppen werken en alle sections op d
 In css heb ik gebruik gemaakt van classes en elementen. Alle css is genest, hierdoor is het overzichtelijk.
 
 belangrijk javascript:
-https://github.com/gijscreator/fix-the-flow-interactive-website/commit/3e97a5bb8011e1c0cffd9841ed453c97b8dbbf8f
+https://github.com/gijsnagtegaal/fix-the-flow-interactive-website/commit/3e97a5bb8011e1c0cffd9841ed453c97b8dbbf8f
 
 
 Belangrijke css:
-https://github.com/gijscreator/fix-the-flow-interactive-website/commit/22877c7bccc3d97f78622c49d8a7f8f2f0d5ab02
+https://github.com/gijsnagtegaal/fix-the-flow-interactive-website/commit/22877c7bccc3d97f78622c49d8a7f8f2f0d5ab02
 
 
 Belangrijke html:
-https://github.com/gijscreator/fix-the-flow-interactive-website/commit/1675071bac17e3402bfa2035b385579ddbc50d90
+https://github.com/gijsnagtegaal/fix-the-flow-interactive-website/commit/1675071bac17e3402bfa2035b385579ddbc50d90
 
 
 ## Bronnen
